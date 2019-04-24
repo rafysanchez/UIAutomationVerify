@@ -1,0 +1,7 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\SampleDriver.exe
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\SampleDriver.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\SampleDriver\obj\Debug\SampleDriver.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\SampleDriver\obj\Debug\SampleDriver.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\SampleDriver\obj\Debug\SampleDriver.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\SampleDriver\obj\Debug\SampleDriver.exe
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\SampleDriver\obj\Debug\SampleDriver.pdb

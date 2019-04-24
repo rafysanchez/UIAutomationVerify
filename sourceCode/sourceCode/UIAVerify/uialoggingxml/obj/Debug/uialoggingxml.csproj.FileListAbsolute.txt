@@ -1,0 +1,7 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\uialoggerxml.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\uialoggerxml.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialoggingxml\obj\Debug\uialoggingxml.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialoggingxml\obj\Debug\uialoggingxml.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialoggingxml\obj\Debug\uialoggingxml.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialoggingxml\obj\Debug\uialoggerxml.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialoggingxml\obj\Debug\uialoggerxml.pdb

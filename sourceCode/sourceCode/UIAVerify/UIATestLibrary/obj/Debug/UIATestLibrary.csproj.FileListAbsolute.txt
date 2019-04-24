@@ -1,0 +1,7 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\WUIATestLibrary.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\WUIATestLibrary.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIATestLibrary\obj\Debug\UIATestLibrary.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIATestLibrary\obj\Debug\UIATestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIATestLibrary\obj\Debug\UIATestLibrary.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIATestLibrary\obj\Debug\WUIATestLibrary.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIATestLibrary\obj\Debug\WUIATestLibrary.pdb

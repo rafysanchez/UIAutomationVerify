@@ -1,0 +1,5 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\UIALogging.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\UIALogging.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialogging\obj\Debug\uialogging.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialogging\obj\Debug\UIALogging.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\uialogging\obj\Debug\UIALogging.pdb

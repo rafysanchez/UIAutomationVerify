@@ -1,0 +1,5 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\IQueryString\bin\debug\IQueryString.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\IQueryString\bin\debug\IQueryString.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\IQueryString\obj\Release\IQueryString.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\IQueryString\obj\Release\IQueryString.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\IQueryString\obj\Release\IQueryString.pdb

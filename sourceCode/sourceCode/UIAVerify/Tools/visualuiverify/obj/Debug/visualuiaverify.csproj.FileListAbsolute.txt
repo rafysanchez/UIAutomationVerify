@@ -1,0 +1,17 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\VisualUIAVerify.exe
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\bin\debug\VisualUIAVerify.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\visualuiaverify.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.AutomationElementPropertyGrid.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.AutomationElementTreeControl.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.AutomationTestsControl.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Controls.TestResultsControl.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Forms.AboutWindow.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Forms.MainWindow.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Forms.RunningTestsWindow.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.Properties.Resources.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.VisualUIAVerifyResources.resources
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\visualuiaverify.csproj.GenerateResource.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\visualuiaverify.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\visualuiaverify.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.exe
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\Tools\visualuiverify\obj\Debug\VisualUIAVerify.pdb

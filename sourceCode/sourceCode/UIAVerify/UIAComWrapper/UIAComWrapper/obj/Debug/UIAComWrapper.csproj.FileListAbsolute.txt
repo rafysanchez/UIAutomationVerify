@@ -1,0 +1,7 @@
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\bin\debug\UIAComWrapper.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\bin\debug\UIAComWrapper.pdb
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.dll
+C:\Users\rportal\Documents\GitHub\UIAutomationVerify\sourceCode\sourceCode\UIAVerify\UIAComWrapper\UIAComWrapper\obj\Debug\UIAComWrapper.pdb
